@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1370999329 source:c:\users\zhe\documents\googlecode\mymaxflow\treeprac\main.cpp
+	<iostream>
+	"Tree_Node.h"
+	"include/Tree.h"
+
+1370997802 c:\users\zhe\documents\googlecode\mymaxflow\treeprac\tree_node.h
+	<stdlib.h>
+
+1370999778 c:\users\zhe\documents\googlecode\mymaxflow\treeprac\include\tree.h
+	"../Tree_Node.h"
+
